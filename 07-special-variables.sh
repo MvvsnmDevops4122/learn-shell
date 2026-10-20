@@ -15,4 +15,6 @@ echo "The process ID of the command running in the background is : $!"
 wait $! # wait for the background process to complete
 echo " Line number of the current command is : $LINENO"
 echo "The exit status of the last command is : $?"
+echo "The current shell is : $SHELL"
+echo " All arguments passed to the script as a single string : $*"
 echo "The Total time taken by the script to execute is : $SECONDS seconds"
