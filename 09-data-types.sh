@@ -17,4 +17,4 @@ echo "FRUITS::${FRUITS[0]}"
 echo "FRUITS::${FRUITS[1]}"
 
 name="Satya M"
-echo "name::$nameolleti"
+echo "name::${name}olleti"
