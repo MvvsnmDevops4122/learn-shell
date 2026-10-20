@@ -15,3 +15,4 @@ FRUITS=(apple banana mango)
 echo "FRUITS::${FRUITS[@]}"
 echo "FRUITS::${FRUITS[0]}"
 echo "FRUITS::${FRUITS[1]}"
+echo "FRUITS::$FRUITS[2]"
