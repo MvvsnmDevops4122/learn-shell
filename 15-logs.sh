@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 user_id=$(id -u)
 logs_folder="/var/log/learn-shell"
